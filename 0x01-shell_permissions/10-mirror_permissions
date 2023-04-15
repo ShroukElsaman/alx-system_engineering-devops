@@ -1,0 +1,2 @@
+#!/bin/bash 
+chmod --referene-c-olleh hello
